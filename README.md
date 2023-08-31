@@ -44,12 +44,15 @@ git clone https://github.com/phisoart/uRAST
 ```
 python3 main.py -a "uRAST" -f "source" -o "out_dir"
 ```
+### output
+<img src="https://github.com/phisoart/uRAST/blob/master/uRAST.jpg">
+
 - Deciphering algorithm for QmapID.
 ```
 python3 main.py -a "QmapID" -f "source" -o "out_dir"
 ```
-### Examples
-You may find a complete example on example/output folder.
+### output
+<img src="https://github.com/phisoart/uRAST/blob/master/QmapID.jpg">
 
 ## Expected run time for demo
 Both algorithms, when executed on a standard computer, require a mere span ranging from several seconds to a few minutes.
