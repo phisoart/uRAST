@@ -57,5 +57,7 @@ python3 main.py -a "QmapID" -f "source" -o "out_dir"
 ## Expected run time for demo
 Both algorithms, when executed on a standard computer, require a mere span ranging from several seconds to a few minutes.
 
+Due to large size of input images and security concerns, data are provided only for certain bacterial species and antibiotic combinations. If additional data are needed for research purposes, please contact the authors
+
 ## Acknowledgments
 BiNEL (http://binel.snu.ac.kr) - This code is made available under the MIT License and is available for non-commercial academic purposes
