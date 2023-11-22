@@ -1,0 +1,42 @@
+{
+  "E.co": [
+    {
+      "ab": "AB",
+      "th_factor": 5,
+      "decision_factor": 1.5,
+      "ref_factor": 1,
+      "inc_factor": 1,
+      "sobel_x_cval": 0,
+      "sobel_y_cval": 0
+    },
+    {
+      "ab": "PTZ",
+      "th_factor": 5,
+      "decision_factor": 1.5,
+      "ref_factor": 1,
+      "inc_factor": 1,
+      "sobel_x_cval": 0,
+      "sobel_y_cval": 0
+    }
+  ],
+  "P.ae": [
+    {
+      "ab": "AB",
+      "th_factor": 5,
+      "decision_factor": 1.5,
+      "ref_factor": 1,
+      "inc_factor": 1,
+      "sobel_x_cval": 0,
+      "sobel_y_cval": 0
+    },
+    {
+      "ab": "PTZ",
+      "th_factor": 5,
+      "decision_factor": 1.5,
+      "ref_factor": 1,
+      "inc_factor": 1,
+      "sobel_x_cval": 0,
+      "sobel_y_cval": 0
+    }
+  ]
+}

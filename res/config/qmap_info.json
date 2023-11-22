@@ -1,0 +1,180 @@
+{
+  "Species": [
+    {
+      "name": "E.co",
+      "n": 5,
+      "distance_array": [0,0,1,1,2],
+      "angle_array": [60,60,60,100,80]
+    },
+    {
+      "name": "P.ae",
+      "n": 5,
+      "distance_array": [0,0,2,2,1],
+      "angle_array": [60,80,100,60,60]
+    },
+    {
+      "name": "Esch/shig",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "Enterob",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "Salmo",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "K.pn",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "K.ox",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "H.in",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "S.mar",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "P.mi",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "Morga",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "A.ba",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "Citro",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "C.fre",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "Staph",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "S.au",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "S.epi",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "S.len",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "Strep",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "S.pn",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "S.pyo",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "S.aga",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "Enteroc",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "E.faeL",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "E.faeC",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "Microc",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "C.str",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    }
+  ],
+  "ResistanceGene": [
+    {
+      "name": "MSSA",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    },
+    {
+      "name": "MRSA",
+      "n": "",
+      "distance_array": "",
+      "angle_array": ""
+    }
+  ]
+}
