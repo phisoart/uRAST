@@ -14,7 +14,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Example script for command line argument processing")
 
     # Add '-a' argument
-    parser.add_argument("-a", "--al", required=True, help="Specify the QmapID.")
+    parser.add_argument("-a", "--al", required=True, help="Specify the algorithm.")
 
     # Add '-f' argument
     parser.add_argument("-f", "--src", required=True, help="Specify the source file path.")
